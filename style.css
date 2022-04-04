@@ -83,6 +83,9 @@ html {
   transition-duration: 0.4s;
   text-align: center;
 }
+.btn a {
+ text-decoration: none;
+}
 .btn:hover {
   background-color: #0491aa; /* Green */
   color: #3a1919;
